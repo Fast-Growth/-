@@ -1,0 +1,154 @@
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\Расписание занятий.exe.config
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\Расписание занятий.exe
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\Расписание занятий.pdb
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\System.Data.SQLite.dll
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Михаил\source\repos\Расписание занятий\bin\Debug\System.Data.SQLite.xml
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание_занятий.Form1.resources
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание_занятий.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.csproj.CopyComplete
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.exe
+C:\Users\Михаил\source\repos\Расписание занятий\obj\Debug\Расписание занятий.pdb
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\Расписание занятий.exe.config
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\Расписание занятий.exe
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\Расписание занятий.pdb
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\System.Data.SQLite.dll
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Михаил\Desktop\Расписание занятий\bin\Debug\System.Data.SQLite.xml
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание_занятий.Form1.resources
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание_занятий.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.csproj.CopyComplete
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.exe
+C:\Users\Михаил\Desktop\Расписание занятий\obj\Debug\Расписание занятий.pdb
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+C:\Users\Михаил\Desktop\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Михаил\Desktop\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+F:\Учёба\ПП\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.csprojAssemblyReference.cache
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+F:\Учёба\ПП\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.AssemblyReference.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+D:\Учёба\флэш\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+D:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.AssemblyReference.cache
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+D:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+A:\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.AssemblyReference.cache
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.SuggestedBindingRedirects.cache
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+A:\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.AssemblyReference.cache
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.SuggestedBindingRedirects.cache
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+L:\Новая папка\Учёба\УП 04\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.exe.config
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.exe
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\Расписание занятий.pdb
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.dll
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.dll
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.xml
+L:\Учёба\Учёба\Расписание занятий — копия\bin\Debug\EntityFramework.SqlServer.xml
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.AssemblyReference.cache
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.SuggestedBindingRedirects.cache
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.ResolveComReference.cache
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание_занятий.Form1.resources
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание_занятий.Properties.Resources.resources
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.GenerateResource.cache
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CoreCompileInputs.cache
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.csproj.CopyComplete
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.exe
+L:\Учёба\Учёба\Расписание занятий — копия\obj\Debug\Расписание занятий.pdb
